@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-unform.svg?color=yellow)
 ![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-unform.svg?color=lightgrey)
 ![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-unform.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo3.svg?color=blueviolet)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-unform.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
