@@ -34,7 +34,7 @@ Aplicação usando unform e Yup.
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde encontra-se o formulário com seus campos.
 
 ## Desenvolvimento
